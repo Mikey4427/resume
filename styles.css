@@ -1,0 +1,20 @@
+header {
+    text-align: center;
+    font-size: 50px;
+}
+.it {
+    float: right;
+    background-color: rebeccapurple;
+    width: 75%;
+    height: 750;
+    text-align: center;
+}
+.they {
+    float: left;
+    background-color: blue;
+    width: 25%;
+    height: 750;
+}
+.p1 {
+    text-align: center;
+}
